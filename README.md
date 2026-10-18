@@ -5,7 +5,7 @@
 I'm a B.Tech student who enjoys building real-world web applications, backend systems, and AI-powered products. I like turning ideas into working products and continuously improving my skills in full-stack development, APIs, databases, and AI-integrated applications.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chandra%20Shekhar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandra-shekhar-a29789284/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-eta-gules-13.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://chandra-s-portfolio.vercel.app/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-coffeesip-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/coffeesip/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandrashekhar07005@gmail.com)
 
